@@ -1,0 +1,16 @@
+Title: Good Will Hunting
+Release Year: 1997
+IMdB Rating: 8.3
+Country: USA
+Language: English
+Plot: Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
+Actors: Matt Damon, Ben Affleck, Stellan Skarsgård, John Mighton
+==========================
+Title: Die Hard
+Release Year: 1988
+IMdB Rating: 8.2
+Country: USA
+Language: English, German, Italian, Japanese
+Plot: John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.
+Actors: Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason
+==========================
