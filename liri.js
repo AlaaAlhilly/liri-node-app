@@ -5,7 +5,6 @@ require('dotenv').config();
 let keys = require('./keys.js');
 var spotify = new spotifyThis(keys.spotify);
 let inq = require('inquirer');
-let inq2 = require('inquirer');
 var fs = require('fs');
 
 inq.prompt([
@@ -19,7 +18,7 @@ inq.prompt([
     if(response.wanted){
         switch(response.wanted){
             case 'movie this':
-            inq2.prompt([
+            inq.prompt([
                 {
                     type:"input",
                     message:"Enter the movie name",
@@ -29,7 +28,7 @@ inq.prompt([
                 omdbThisMovie(movie.movie);
             });break;
             case 'spotify this':
-            inq2.prompt([
+            inq.prompt([
                 {
                     type:"input",
                     message:"Enter the song name",
@@ -39,7 +38,7 @@ inq.prompt([
                 SpotifyThisFunc(song.song);
             });break;
             case 'band this':
-            inq2.prompt([
+            inq.prompt([
                 {
                     type:"input",
                     message:"Enter the band name",

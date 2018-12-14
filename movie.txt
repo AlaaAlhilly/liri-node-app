@@ -14,3 +14,11 @@ Language: English, German, Italian, Japanese
 Plot: John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.
 Actors: Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason
 ==========================
+Title: Fight Club
+Release Year: 1999
+IMdB Rating: 8.8
+Country: USA, Germany
+Language: English
+Plot: An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.
+Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+==========================
