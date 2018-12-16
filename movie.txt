@@ -1,24 +1,8 @@
-Title: Good Will Hunting
-Release Year: 1997
-IMdB Rating: 8.3
-Country: USA
-Language: English
-Plot: Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
-Actors: Matt Damon, Ben Affleck, Stellan Skarsgård, John Mighton
-==========================
-Title: Die Hard
-Release Year: 1988
-IMdB Rating: 8.2
-Country: USA
-Language: English, German, Italian, Japanese
-Plot: John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.
-Actors: Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason
-==========================
-Title: Fight Club
-Release Year: 1999
-IMdB Rating: 8.8
-Country: USA, Germany
-Language: English
-Plot: An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.
-Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+Title: Mr. Nobody
+Release Year: 2009
+IMdB Rating: 7.9
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 ==========================

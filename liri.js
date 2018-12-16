@@ -25,7 +25,11 @@ inq.prompt([
                     name:"movie"
                 }
             ]).then(function(movie){
-                omdbThisMovie(movie.movie);
+                if(movie.movie == ''){
+                    justDoSomething('movie');
+                }else{
+                    omdbThisMovie(movie.movie);
+                }
             });break;
             case 'spotify this':
             inq.prompt([
@@ -35,7 +39,11 @@ inq.prompt([
                     name:"song"
                 }
             ]).then(function(song){
-                SpotifyThisFunc(song.song);
+                if(song.song == ''){
+                    justDoSomething('song');
+                }else{
+                    SpotifyThisFunc(song.song);
+                }
             });break;
             case 'band this':
             inq.prompt([
@@ -45,10 +53,14 @@ inq.prompt([
                     name:"band"
                 }
             ]).then(function(band){
-                bandInTownFunc(band.band);
+                if(band.band == ''){
+                    justDoSomething('band');
+                }else{
+                    bandInTownFunc(band.band);
+                }
             });break;
             case "do-what-it-says":
-                justDoSomething();
+                justDoSomething('something');
                 break;
         }
     }
@@ -110,6 +122,7 @@ function omdbThisMovie(movieName){
             console.log("Title: " + response.data.Title);
             console.log("Release Year: " + response.data.Year);
             console.log("IMdB Rating: " + response.data.imdbRating);
+            console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
             console.log("Country: " + response.data.Country);
             console.log("Language: " + response.data.Language);
             console.log("Plot: " + response.data.Plot);
@@ -127,10 +140,15 @@ function omdbThisMovie(movieName){
         }
     );
 }
-function justDoSomething(){
+function justDoSomething(something){
     fs.readFile('random.txt', "utf8", function(error, data){
-      var song = data.split(',');
-  
-      SpotifyThisFunc(song[1]);
+    var response = data.split(',');
+    if(something == 'movie'){
+        omdbThisMovie(response[2]);
+    }else if(something == 'band'){
+        bandInTownFunc(response[3]);
+    }else{
+        SpotifyThisFunc(response[1]);
+    }
     });
   }
