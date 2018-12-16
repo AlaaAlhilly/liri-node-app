@@ -1,10 +1,26 @@
+Event Name: The Met Philadelphia
+Event Location: Philadelphia, United States
+Event Date: 12/17/2018
+==========================
+Event Name: Beacon Theatre
+Event Location: New York, United States
+Event Date: 12/19/2018
+==========================
+Event Name: Beacon Theatre
+Event Location: New York, United States
+Event Date: 12/20/2018
+==========================
+Event Name: Beacon Theatre
+Event Location: New York, United States
+Event Date: 12/21/2018
+==========================
+Event Name: Beacon Theatre
+Event Location: New York, United States
+Event Date: 12/23/2018
+==========================
 Event Name: Valley View Casino Center
 Event Location: San Diego, United States
 Event Date: 01/10/2019
-==========================
-Event Name: The Forum
-Event Location: Los Angeles, United States
-Event Date: 01/12/2019
 ==========================
 Event Name: T-Mobile Arena
 Event Location: Las Vegas, United States
@@ -18,25 +34,17 @@ Event Name: Pepsi Center
 Event Location: Denver, United States
 Event Date: 01/17/2019
 ==========================
-Event Name: Tingley Coliseum
-Event Location: Albuquerque, United States
-Event Date: 01/18/2019
-==========================
-Event Name: Vivint Smart Home Arena
-Event Location: Salt Lake City, United States
-Event Date: 01/20/2019
+Event Name: The Forum
+Event Location: Los Angeles, United States
+Event Date: 01/12/2019
 ==========================
 Event Name: Pinnacle Bank Arena
 Event Location: Lincoln, United States
 Event Date: 01/23/2019
 ==========================
-Event Name: Sprint Center
-Event Location: Kansas City, United States
-Event Date: 01/24/2019
-==========================
-Event Name: Alamodome
-Event Location: San Antonio, United States
-Event Date: 01/26/2019
+Event Name: Vivint Smart Home Arena
+Event Location: Salt Lake City, United States
+Event Date: 01/20/2019
 ==========================
 Event Name: American Airlines Center
 Event Location: Dallas, United States
@@ -78,9 +86,13 @@ Event Name: Madison Square Garden
 Event Location: New York, United States
 Event Date: 02/26/2019
 ==========================
-Event Name: DCU Center
-Event Location: Worcester, United States
-Event Date: 02/28/2019
+Event Name: Sprint Center
+Event Location: Kansas City, United States
+Event Date: 01/24/2019
+==========================
+Event Name: Alamodome
+Event Location: San Antonio, United States
+Event Date: 01/26/2019
 ==========================
 Event Name: Place Bell
 Event Location: Laval, Canada
@@ -94,6 +106,14 @@ Event Name: Scotiabank Arena
 Event Location: Toronto, Canada
 Event Date: 03/05/2019
 ==========================
+Event Name: DCU Center
+Event Location: Worcester, United States
+Event Date: 02/28/2019
+==========================
+Event Name: Tingley Coliseum
+Event Location: Albuquerque, United States
+Event Date: 01/18/2019
+==========================
 Event Name: Little Caesars Arena
 Event Location: Detroit, United States
 Event Date: 03/06/2019
@@ -102,21 +122,17 @@ Event Name: Van Andel Arena
 Event Location: Grand Rapids, United States
 Event Date: 03/08/2019
 ==========================
-Event Name: Allstate Arena
-Event Location: Rosemont, United States
-Event Date: 03/09/2019
-==========================
 Event Name: Sala Riviera
 Event Location: Madrid, Spain
 Event Date: 04/19/2019
 ==========================
+Event Name: Allstate Arena
+Event Location: Rosemont, United States
+Event Date: 03/09/2019
+==========================
 Event Name: Sala Razzmatazz
 Event Location: Barcelona, Spain
 Event Date: 04/20/2019
-==========================
-Event Name: Halle 622
-Event Location: Zürich, Switzerland
-Event Date: 04/22/2019
 ==========================
 Event Name: Alcatraz
 Event Location: Milano, Italy
@@ -130,45 +146,37 @@ Event Name: Zenith, die Kulturhalle
 Event Location: Grafing Bei Munchen, Germany
 Event Date: 04/26/2019
 ==========================
-Event Name: Rockhal
-Event Location: Esch-sur-alzette, Luxembourg
-Event Date: 04/28/2019
-==========================
-Event Name: Sporthalle Hamburg
-Event Location: Hamburg, Germany
-Event Date: 04/29/2019
-==========================
-Event Name: Sentrum Scene
-Event Location: Oslo, Norway
-Event Date: 05/02/2019
-==========================
-Event Name: K.B. Hallen
-Event Location: Copenhagen, Denmark
-Event Date: 05/04/2019
-==========================
-Event Name: Verti Music Hall
-Event Location: Berlin-altglienicke, Germany
-Event Date: 05/05/2019
-==========================
-Event Name: Palladium
-Event Location: Köln, Germany
-Event Date: 05/07/2019
+Event Name: Halle 622
+Event Location: Zürich, Switzerland
+Event Date: 04/22/2019
 ==========================
 Event Name: Annexet
 Event Location: Stockholm, Sweden
 Event Date: 05/01/2019
 ==========================
-Event Name: Alexandra Palace
-Event Location: London, United Kingdom
-Event Date: 05/11/2019
+Event Name: Sporthalle Hamburg
+Event Location: Hamburg, Germany
+Event Date: 04/29/2019
 ==========================
-Event Name: O2 Apollo Manchester
-Event Location: Manchester, United Kingdom
-Event Date: 05/15/2019
+Event Name: K.B. Hallen
+Event Location: Copenhagen, Denmark
+Event Date: 05/04/2019
 ==========================
-Event Name: Graspop Metal Meeting [June 21-23]
-Event Location: Dessel, Belgium
-Event Date: 06/23/2019
+Event Name: Sentrum Scene
+Event Location: Oslo, Norway
+Event Date: 05/02/2019
+==========================
+Event Name: Rockhal
+Event Location: Esch-sur-alzette, Luxembourg
+Event Date: 04/28/2019
+==========================
+Event Name: Palladium
+Event Location: Köln, Germany
+Event Date: 05/07/2019
+==========================
+Event Name: Verti Music Hall
+Event Location: Berlin-altglienicke, Germany
+Event Date: 05/05/2019
 ==========================
 Event Name: AFAS Live
 Event Location: Amsterdam, Netherlands
@@ -178,7 +186,19 @@ Event Name: Élysée Montmartre
 Event Location: Paris, France
 Event Date: 05/10/2019
 ==========================
+Event Name: Graspop Metal Meeting [June 21-23]
+Event Location: Dessel, Belgium
+Event Date: 06/23/2019
+==========================
 Event Name: O2 Academy Glasgow
 Event Location: Glasgow, United Kingdom
 Event Date: 05/14/2019
+==========================
+Event Name: O2 Apollo Manchester
+Event Location: Manchester, United Kingdom
+Event Date: 05/15/2019
+==========================
+Event Name: Alexandra Palace
+Event Location: London, United Kingdom
+Event Date: 05/11/2019
 ==========================

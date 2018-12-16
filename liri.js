@@ -72,7 +72,7 @@ function bandInTownFunc(band){
     axios.get(`http://rest.bandsintown.com/artists/${band}/events?app_id=codingbootcamp`).then(
     function (response) {
         response.data.forEach(data =>{
-            (data.venue.name);
+            console.log(data.venue.name);
             console.log(data.venue.city+', '+data.venue.country);
             console.log(moment(data.datetime, 'YYYY-MM-DDTHH:mm').utc().format("MM/DD/YYYY"));  
             fs.appendFile('band.txt',
